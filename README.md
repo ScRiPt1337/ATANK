@@ -7,4 +7,4 @@ ATANK is a android ransomware builder
 
 
 
-its only for educational purposes i am not responsible for kind of hard or damage
+its only for educational purposes i am not responsible for kind of harm or damage
