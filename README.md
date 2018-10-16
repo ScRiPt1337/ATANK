@@ -7,6 +7,6 @@ ATANK is a android ransomware builder
 
 
 # how to use:
-https://www.youtube.com/watch?v=-ErJEbNvTqg&feature=youtu.be
+https://www.facebook.com/script1337/videos/173454006895080/
 
 its only for educational purposes i am not responsible for kind of harm or damage
