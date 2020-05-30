@@ -5,7 +5,7 @@ ATANK is a android ransomware builder
 
 1. kali linux or parrot os because i don't test it on any other Linux distribution but you can try let us know if you have any problem we will fix it as soon as possiable !!!
 
-> https://discord.gg/ZdRyax
+> https://discord.gg/2eBYku3
 # how to use:
 
 https://www.youtube.com/watch?v=-ErJEbNvTqg&t=807s
